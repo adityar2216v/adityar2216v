@@ -1,100 +1,77 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Aditya%20Raj%20Srivastava&fontSize=50&fontColor=ffffff" width="100%" />
+# aditya raj srivastava
 
-<h3 align="center">AI Engineer | Full Stack Developer | Backend Systems Developer</h3>
+<a href="https://github.com/adityar2216v">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=A9B7C6&vCenter=true&width=600&lines=ai+engineer;full+stack+developer;backend+systems+developer" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/adityar2216v">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Integrating+AI+with+Scalable+Software" alt="Typing SVG" />
-  </a>
-</p>
+`designing systems where ai meets structured engineering`
 
-<p align="center">
-  <a href="https://linkedin.com/in/adityar2216v"><img src="https://img.shields.io/badge/LinkedIn-Profile-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/adityar2216v"><img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/adityar2216v/count.svg" alt="Profile Visits" />
-</p>
+<a href="https://linkedin.com/in/adityar2216v"><img src="https://img.shields.io/badge/linkedin-121212?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-121212?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br/>
+<br>
 
-### 👨‍💻 About Me
+## >_ about
 
-> I am a software engineer focused on developing full-stack applications and integrating AI into practical workflows. My expertise lies in designing backend systems, building RESTful APIs, and developing interactive frontends. I implement LLMs, Retrieval-Augmented Generation (RAG) pipelines, and document processing tools with a focus on maintainability and scalable backend architectures.
+i build full-stack applications with an emphasis on backend architecture and ai integration. my focus areas include working with llms, implementing retrieval-augmented generation (rag) systems, and designing clean application programming interfaces (apis). i prefer writing maintainable software over chasing hype.
 
-- **Location:** India 📍
-- **Core Focus:** Large Language Models (LLMs), Prompt Engineering, RAG
-- **Current Goal:** Building backend systems that effectively leverage AI inference.
-- **Leadership:** Founder & President at Coders Era
+- **location:** india
+- **domains:** generative ai, backend infrastructure, api design
 
-<br/>
+<br>
 
----
+## >_ stack
 
-### 🛠️ Technical Arsenal
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" alt="Frontend" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,mysql,supabase&theme=dark" alt="Backend & Databases" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Tools" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp&theme=dark" alt="lang" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" alt="frontend" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,mysql,supabase&theme=dark" alt="backend" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="tools" />
 </div>
 
-<br/><br/>
+<br>
 
----
+## >_ projects
 
-### 🚀 Highlighted Projects
+| project | notes |
+| :--- | :--- |
+| **`ai-task-manager`** | built an llm-assisted task prioritization system. focused on the interaction between frontend and ai logic. |
+| **`omniassist-ai`** | developed a flask-based ai assistant with database integration. implemented authentication and api layer. |
+| **`fintech-ai`** | designed an extraction system to parse structured data from financial documents using language models. |
+| **`soulmate-ai`** | built a conversational ai system utilizing external llm apis. |
+| **`tw33t`** | created a social media platform using next.js. |
+| **`weathernova`** | developed a real-time weather analytics application using third-party apis. |
 
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| **AI Task Manager** | `LLMs` `GenAI` | AI-assisted task prioritization system integrated with an LLM. |
-| **OmniAssist AI** | `Flask` `Python` | AI assistant application built with a Flask backend and database integration. |
-| **FinTech AI** | `Python` `AI` | Financial document parsing workflow designed to extract data using AI. |
-| **Soulmate AI** | `LLM APIs` | Conversational agent built using LLM APIs. |
-| **Tw33t** | `Next.js` `React` | Social media application developed using Next.js. |
-| **WeatherNova** | `APIs` `React` | Weather analytics tool built by integrating weather REST APIs. |
+<br>
 
-<br/>
+## >_ experience
 
----
+- **generative ai intern** · _developers arena_
+- **web dev intern** · _codsoft, yhills_
+- **founder & president** · _coders era_
+- **technical mentor & hackathon judge**
 
-### 💼 Professional Journey
+<br>
 
-**Experience**
-- 🤖 **Generative AI Intern** @ *Developers Arena* (Developing and implementing AI workflows)
-- 💻 **Web Dev Intern** @ *CodSoft, YHills* (Building web application components)
+## >_ metrics
 
-**Community & Leadership**
-- 👑 **Founder & President** @ *Coders Era* (Leading a community of tech enthusiasts and guiding projects)
-- 🏆 **Technical Mentor & Hackathon Judge** (Evaluating technical architectures and mentoring developers)
-
-<br/>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityar2216v&show_icons=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=cccccc&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityar2216v&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityar2216v&layout=compact&bg_color=00000000&title_color=8B5CF6&text_color=cccccc&hide_border=true" width="45%" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityar2216v&show_icons=true&bg_color=0d1117&title_color=A9B7C6&icon_color=58A6FF&text_color=8b949e&hide_border=true&border_radius=0" alt="stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityar2216v&layout=compact&bg_color=0d1117&title_color=A9B7C6&text_color=8b949e&hide_border=true&border_radius=0" alt="langs" width="40%" />
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <i>"Writing code that builds intelligent systems."</i>
-</div>
+---
+
+> "simplicity is prerequisite for reliability."  
+> — *edsger w. dijkstra*
+
+- **suggested theme:** `obsidian core` (bg: `#0d1117`, accent: `#58a6ff` or `#89d185`)
+- **branding:** `aditya / dsgn` or `aditya_`
