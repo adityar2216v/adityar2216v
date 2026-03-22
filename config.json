@@ -1,0 +1,25 @@
+{
+  "system": {
+    "user": "adityar2216v",
+    "name": "Aditya Raj Srivastava",
+    "version": "v1.0.0",
+    "status": "online",
+    "core_modules": [
+      "Generative AI",
+      "LLM Integration",
+      "RAG Systems",
+      "Backend Architecture",
+      "API Design"
+    ],
+    "theme": {
+      "mode": "dark",
+      "base": "#0D1117",
+      "primary": "#00F0FF",
+      "secondary": "#39FF14",
+      "text": "#C9D1D9",
+      "muted": "#8B949E"
+    },
+    "architecture_pattern": "modular-microservices",
+    "framework": "Stitch-MCP-Style-Config"
+  }
+}
