@@ -1,0 +1,48 @@
+ADITY A RAJ SRIV AST A V A
+AI Engineer | F ull-Stac k Soft w are Engineer | Bac k end Systems Dev elop er
+Ph: +91-9170806003 · Email: sriv asta v aadit y ara j751@gmail.com · Lo cation: Gautam Buddha Nagar, India
+gith ub.com/adit y ar2216v · link edin.com/in/adit y a-ra j-sriv asta v a-401b75328 · adit y ar2216v.v ercel.app
+Professional Summary
+AI Engineer and F ull-Stac k Dev elop er pursuing B.T ec h (CSE) at NIET, Greater Noida, sp ecialising in Generativ e AI, LLM
+in tegration, RA G pip elines, and scalable bac k end arc hitectures. F ounder of Co ders Era ; 4 in ternships (Dev elop ers Arena,
+Co dSoft, YHills) deliv ering pro duction-ready AI and w eb applications.
+T ec hnical Skills
+Languages Python, Ja v aScript, T yp eScript, Ja v a, C, C++
+F ron tend React.js, Next.js, Angular, React Nativ e, HTML5, CSS3, T ailwindCSS
+Bac k end No de.js, Express.js, Flask, RESTful APIs, Authen tication Systems
+Databases P ostgreSQL, MongoDB, MySQL, Supabase
+AI / ML LLMs, Prompt Engineering, RA G, Op enAI API, AI W orko w Automation, In telligen t Do cumen t Pro cessing
+T o ols & Dev Git, GitHub, V ercel, Render, DSA, OOP , DBMS, Op erating Systems
+Professional Exp erience
+Python & Generativ e AI Dev elopmen t In tern  Dev elop ers Arena A ug 2025  Nov 2025
+ Built Generativ e AI applications in tegrating LLM-based reasoning with scalable Python bac k ends.
+ Designed and deplo y ed RESTful APIs; collab orated cross-functionally on fron tend-bac k end in tegration.
+ Automated in telligen t data-pro cessing w orko ws, impro ving op erational eciency .
+ Deliv ered pro duction-ready AI features with strong o wnership and problem-solving.
+W eb Dev elopmen t In tern  Co dSoft Internship
+Dev elop ed Resume W ebsite and static E-Kart E-Commerce site with resp onsiv e, optimised UI.
+W eb Dev elopmen t In tern  YHills Internship
+Built SaaS ERP mo dules and fully automated E-Kart platform with dynamic database in tegration.
+Selected Pro jects
+AI T ask Manager Arc hitected LLM-driv en task prioritisation engine with mo dular React/Next.js fron tend. Liv e
+OmniAssist AI En terprise AI assistan t (Flask + Supabase + P ostgreSQL) with secure auth and con textual
+LLM reasoning.Liv e
+FinT ec h Do c
+In telligenceAI parsing pip eline (React, Next.js, T yp eScript) transforming unstructured nancial do cs to
+structured data.Liv e
+Soulmate AI Con v ersational AI (Python, Flask, LLM API) with real-time dialogue inference pip eline. Liv e
+T w33t F ull-stac k so cial media platform (Next.js, T yp eScript) with dynamic routing and scalable UI. Liv e
+Co ders Era Platform Ocial comm unit y tec h platform (HTML/CSS/JS) supp orting ev en ts and engagemen t. Liv e
+Education
+Y ear Qualication Institution / Board
+2024  2028 B.T ec h  Computer Science & Engineering Noida Institute of Engineering and T ec hnology , Greater
+Noida
+Leadership & Comm unit y
+F ounder & Presiden t  Co ders Era Comm unit y
+ Scaled tec h comm unit y; organised AI and F ull-Stac k w orkshops; men tored dev elop ers in Gen AI and W eb Dev.
+ Serv ed as Hac k athon Judge & T ec hnical Men tor ; co ordinated m ulti-comm unit y ev en ts.
+Campus Am bassador  Unlo x, YHills & Smarted | Mark eting In tern  Gladify
+A dditional Information
+Nationalit y Indian Languages English, Hindi
+Core In terests AI, System Design, OSS A v ailabilit y In ternships / F ull-time (2028)
+I her eby de clar e that al l information pr ovide d is true and c orr e ct to the b est of my know le dge. A dit y a Ra j Sriv asta v a

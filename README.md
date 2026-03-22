@@ -1,124 +1,101 @@
 <!-- 
   ======================================================
-  SYSTEM ASSET: ROOT PROFILE (Composed)
-  AUTHOR: Aditya Raj Srivastava
-  VERSION: 1.0.0
+  Aditya Raj Srivastava - GitHub Profile
+  (Clean & Human-Crafted Approach | Real Data)
   ======================================================
 -->
 
 <!-- ==================== HERO MODULE ==================== -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="System Interface" width="100%" />
+  <img src="./assets/banner.svg" alt="Aditya Raj Srivastava" width="100%" />
+
+  <h1>Hi there, I'm Aditya 👋</h1>
+  <h3>AI Engineer | Full-Stack Software Engineer</h3>
+
+  <p>
+    <em>Building intelligent, scalable backend systems and exploring the limits of Generative AI.</em>
+  </p>
 </div>
-
-<br>
-
-```text
-> initializing_aditya_profile...
-> loading_modules... [AI, Backend, RAG]
-> authentication: SUCCESS
-> access_level: ROOT
-```
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Initialize+Agent+Aditya...;Deploying+AI+Models...;Compiling+Backend+Logic...;System+Online." alt="Typing SVG" />
-</h1>
 
 ---
 
 <!-- ==================== ABOUT MODULE ==================== -->
-### 🖥️ SYSTEM STATUS PANEL
+## 👤 About Me
 
-| **Metric** | **Value** | **Status** |
-| :--- | :--- | :--- |
-| **Role** | AI Engineer & Backend Systems Dev | `ACTIVE` |
-| **Current Focus** | Generative AI, RAG Systems, LLMs | `EXECUTING` |
-| **Architecture** | Scalable Backend & API Design | `OPTIMIZED` |
-| **Location** | Remote / Earth | `ONLINE` |
+I'm an AI Engineer and Full-Stack Developer currently pursuing my B.Tech in Computer Science & Engineering at NIET, Greater Noida (2024 - 2028). I specialize in Generative AI, LLM integration, RAG pipelines, and scalable backend architectures. I'm also the Founder and President of the **Coders Era** community, where I mentor developers and organize tech events.
 
-> Engineer specializing in building robust backend systems and integrating state-of-the-art Generative AI capabilities. Passionate about modular design, high-performance APIs, and creating scalable system architectures.
+Always eager to build production-ready software, I've completed several internships focusing on intelligent document processing, AI workflow automation, and delivering robust, scalable web applications.
 
 ---
 
 <!-- ==================== STACK MODULE ==================== -->
-### ⚙️ SYSTEM DEPENDENCIES (Tech Stack)
+## 💻 Tech Stack
 
-#### `module.core.languages`
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### `module.ai_ml.infrastructure`
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+**AI & Machine Learning**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 
-#### `module.backend.frameworks`
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+**Frontend & Mobile**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### `module.data.storage`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector_DB-00F0FF?style=for-the-badge&logo=database&logoColor=black)
-
-#### `module.devops.deployment`
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Backend & Databases**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 <!-- ==================== PROJECTS MODULE ==================== -->
-### 🚀 ACTIVE DEPLOYMENTS (Projects)
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>[ Deployment 01 ] :: AI-Powered RAG Engine</b></summary>
-<br>
-
-- **Description:** A scalable Retrieval-Augmented Generation system designed to parse, index, and query large document corpuses with extreme low latency.
-- **Tech Stack:** `Python` `LangChain` `FastAPI` `Vector DB`
-- **Status:** `OPERATIONAL`
-</details>
-
-<details open>
-<summary><b>[ Deployment 02 ] :: Modular Microservices Backend</b></summary>
-<br>
-
-- **Description:** Distributed backend architecture emphasizing decoupled services, message queues, and bulletproof API gateways for high-throughput applications. 
-- **Tech Stack:** `Node.js` `Express` `Docker` `Redis`
-- **Status:** `OPERATIONAL`
-</details>
-
-<details>
-<summary><b>[ Deployment 03 ] :: LLM Agentic Workflow System</b></summary>
-<br>
-
-- **Description:** A framework for multi-agent collaboration, automating complex multi-step reasoning tasks and reducing human-in-the-loop dependencies for standard workflows.
-- **Tech Stack:** `OpenAI API` `Python` `WebSocket`
-- **Status:** `BETA_TESTING`
-</details>
+- **OmniAssist AI:** Enterprise AI assistant built with Flask, Supabase, and PostgreSQL featuring secure auth and contextual LLM reasoning.
+- **FinTech Doc Intelligence:** Parsing pipeline built in React, Next.js, and TypeScript for transforming unstructured financial documents into structured data.
+- **AI Task Manager:** Designed an LLM-driven task prioritization engine utilizing a modular React/Next.js frontend.
+- **Soulmate AI:** Conversational AI leveraging Python, Flask, and LLM APIs with a real-time dialogue inference pipeline.
+- **Tw33t:** Full-stack social media platform deployed via Next.js and TypeScript, highlighting dynamic routing and scalable UI.
 
 ---
 
 <!-- ==================== EXPERIENCE MODULE ==================== -->
-### ⏱️ SYSTEM RUNTIME (Experience)
+## 💼 Experience & Leadership
 
-```bash
-$ tail -f /var/log/experience.log
-
-[2023-PRESENT] INFO: Executing role "AI Engineeer & Backend Developer"
-               ├─ Architecting Generative AI applications
-               ├─ Implementing internal LLM tools and RAG pipelines
-               └─ Designing scalable backend architectures
-
-[2021-2023]    INFO: Executing role "Full Stack Developer"
-               ├─ Developed and maintained RESTful APIs
-               ├─ Built responsive UIs interacting with complex databases
-               └─ Optimized application performance and query speeds
-```
+- **Founder & President** | *Coders Era Community*
+  - Scaled a dynamic tech community by mentoring developers in Generative AI and Web Development, and organizing numerous workshops and hackathons.
+- **Python & Generative AI Development Intern** | *Developers Arena* (Aug 2025 - Nov 2025)
+  - Built Generative AI applications integrating LLM-based reasoning into clean, scalable Python backends.
+  - Deployed RESTful APIs and optimized intelligent data-processing workflows.
+- **Web Development Intern** | *CodSoft & YHills*
+  - Developed and maintained responsive UIs and robust e-commerce architectures including static and dynamic ERP modules.
 
 ---
 
 <!-- ==================== STATS MODULE ==================== -->
-### 📊 TELEMETRY DATA (GitHub Stats)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityar2216v&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=39FF14" alt="Aditya's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityar2216v&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0070f3&text_color=586069&icon_color=0070f3" alt="Aditya's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityar2216v&theme=transparent&hide_border=true&title_color=0070f3&text_color=586069&icon_color=0070f3&ring=0070f3&fire=0070f3" alt="GitHub Streak" />
+</div>
 
-<!-- Optional Grid Snake Animation -->
+<br/>
+
+<details>
+<summary><b>🔥 Contribution Graph (Click to see)</b></summary>
+<br/>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityar2216v/adityar2216v/output/github-contribution-grid-snake-dark.svg">
@@ -126,30 +103,17 @@ $ tail -f /var/log/experience.log
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityar2216v/adityar2216v/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+</details>
 
 ---
 
 <!-- ==================== CONTACT MODULE ==================== -->
-### 📡 ESTABLISH CONNECTION
+## 📬 Let's Connect
 
-```json
-{
-  "request_type": "handshake",
-  "endpoint": "contact_protocols",
-  "payload": {
-    "Email": "mailto:YOUR_EMAIL_HERE",
-    "LinkedIn": "https://linkedin.com/in/adityarajst",
-    "GitHub": "https://github.com/adityar2216v"
-  }
-}
-```
+I'm always open to discussing system architecture, AI trends, or potential collaborations.
 
-<div align="center">
-  <a href="https://linkedin.com/in/adityarajst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=EOF;Connection+terminated." alt="EOF" />
+<p>
+  <a href="https://linkedin.com/in/adityaraj-srivastava-401b75328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavaadityaraj751@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://adityar2216v.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
