@@ -1,9 +1,8 @@
 <!-- 
   ======================================================
   [ SYSTEM INIT ]
-  NODE ARCHITECTURE: ROS / RTC
+  NODE ARCHITECTURE: ROS / RTC (Real Time Original Data)
   AUTHOR: Aditya Raj Srivastava
-  VERSION: 2.0_RTC
   ======================================================
 -->
 
@@ -29,9 +28,9 @@
 ---
 
 <!-- MOUNTING ORCHESTRATOR NODE -->
-### 👤 `node://orchestrator` (About)
+### 👤 `node://orchestrator` (Professional Summary)
 
-I am an **AI Engineer and Backend Systems Developer** orchestrating logic via B.Tech in CSE at NIET. I act as an orchestration hub—routing complex AI inferences, maintaining backend microservices, and serving as Founder/President for **Coders Era** community deployments.
+AI Engineer and Full-Stack Developer pursuing B.Tech (CSE) at NIET, Greater Noida, specialising in Generative AI, LLM integration, RAG pipelines, and scalable backend architectures. Founder of Coders Era; 4 internships (Developers Arena, CodSoft, YHills) delivering production-ready AI and web applications.
 
 ---
 
@@ -40,64 +39,67 @@ I am an **AI Engineer and Backend Systems Developer** orchestrating logic via B.
 
 **Status:** `ONLINE` | **Latency:** `< 20ms`
 
-- **LLM Integration:** Designed and integrated multi-agent collaboration frameworks combining OpenAI APIs with robust programmatic backends.
-- **RAG Pipelines:** Built high-throughput Retrieval-Augmented Generation engines processing unstructured financial documents into structured telemetry.
-- **Workflow Automation:** Automated intelligent data-processing logic reducing standard human-in-the-loop dependencies.
+- **Generative AI & LLMs:** Built Generative AI applications integrating LLM-based reasoning with scalable Python backends.
+- **Data-Processing & RAG:** Automated intelligent data-processing workflows, improving operational efficiency.
+- **Prompt Engineering & API Integration:** Integrated OpenAI API and structured AI workflows for production-ready features.
 
 ---
 
 <!-- MOUNTING ACTIVE SERVICES NODE -->
-### 🚀 `node://active_services` (Projects)
+### 🚀 `node://active_services` (Selected Projects)
+
+<details open>
+<summary><b>[service: ai_task_manager]</b></summary>
+<br>
+
+- **description:** Architected LLM-driven task prioritisation engine with modular React/Next.js frontend
+- **status:** `active`
+</details>
 
 <details open>
 <summary><b>[service: omniassist_ai]</b></summary>
 <br>
 
+- **description:** Enterprise AI assistant (Flask + Supabase + PostgreSQL) with secure auth and contextual LLM reasoning
 - **status:** `active`
-- **description:** Enterprise AI assistant built with secure auth and contextual LLM reasoning.
-- **stack:** `flask` `supabase` `postgresql`
 </details>
 
 <details open>
 <summary><b>[service: fintech_doc_intelligence]</b></summary>
 <br>
 
+- **description:** AI parsing pipeline (React, Next.js, TypeScript) transforming unstructured financial docs to structured data
 - **status:** `active`
-- **description:** Parsing pipeline developed to transform unstructured financial documents into structured data payloads.
-- **stack:** `react` `next.js` `typescript`
-</details>
-
-<details open>
-<summary><b>[service: ai_task_manager]</b></summary>
-<br>
-
-- **status:** `active`
-- **description:** Designed an LLM-driven task prioritization system mapped to a scalable frontend.
-- **stack:** `react` `next.js` `openai`
 </details>
 
 <details>
 <summary><b>[service: soulmate_ai]</b></summary>
 <br>
 
+- **description:** Conversational AI (Python, Flask, LLM API) with real-time dialogue inference pipeline
 - **status:** `active`
-- **description:** Conversational AI node leveraging Python, Flask, and LLM APIs for real-time dialogue inference.
-- **stack:** `python` `flask` `llms`
 </details>
 
 <details>
 <summary><b>[service: tw33t]</b></summary>
 <br>
 
+- **description:** Full-stack social media platform (Next.js, TypeScript) with dynamic routing and scalable UI
 - **status:** `active`
-- **description:** Implemented full-stack platform utilizing dynamic routing and responsive scalable UI.
-- **stack:** `next.js` `typescript`
+</details>
+
+<details>
+<summary><b>[service: coders_era_platform]</b></summary>
+<br>
+
+- **description:** Official community tech platform (HTML/CSS/JS) supporting events and engagement
+- **status:** `active`
 </details>
 
 ---
 
 <!-- MOUNTING DEPENDENCIES NODE -->
-### ⚙️ `node://dependencies` (Tech Stack)
+### ⚙️ `node://dependencies` (Technical Skills)
 
 ```yaml
 dependencies:
@@ -106,57 +108,84 @@ dependencies:
     - javascript 
     - typescript
     - java
+    - c
     - c++
-  frameworks_backend:
-    - node.js
-    - express
-    - flask
-  frameworks_frontend:
-    - react
+  frontend:
+    - react.js
     - next.js
     - angular
-  ai_ml:
-    - openai_api
-    - langchain_rag
-    - pytorch
-  databases_devops:
+    - react native
+    - html5
+    - css3
+    - tailwindcss
+  backend:
+    - node.js
+    - express.js
+    - flask
+    - restful APIs
+    - authentication systems
+  databases:
     - postgresql
     - mongodb
-    - redis
-    - docker
+    - mysql
     - supabase
+  ai_ml:
+    - llms
+    - prompt engineering
+    - rag
+    - openai api
+    - ai workflow automation
+    - intelligent document processing
+  tools_dev:
+    - git
+    - github
+    - vercel
+    - render
+    - dsa
+    - oop
+    - dbms
+    - operating systems
 ```
 
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 <!-- MOUNTING RUNTIME LOGS NODE -->
-### ⏱️ `node://runtime_logs` (Experience)
+### ⏱️ `node://runtime_logs` (Professional Experience & Leadership)
 
 ```bash
 [SUCCESS] Booting orchestrator logs...
 
 [2025-08 -> 2025-11] 
-  role: Generative AI Intern @ Developers Arena
-  exec: Implemented Generative AI applications onto scalable Python backends.
-  exec: Automated intelligent data-processing pipelines.
+  role: Python & Generative AI Development Intern @ Developers Arena
+  exec: Built Generative AI applications integrating LLM-based reasoning with scalable Python backends.
+  exec: Designed and deployed RESTful APIs; collaborated cross-functionally on frontend-backend integration.
+  exec: Automated intelligent data-processing workflows, improving operational efficiency.
+  exec: Delivered production-ready AI features with strong ownership and problem-solving.
 
-[2024 -> Present]
+[Internships] 
+  role: Web Development Intern @ CodSoft
+  exec: Developed Resume Website and static E-Kart E-Commerce site with responsive, optimised UI.
+  
+  role: Web Development Intern @ YHills
+  exec: Built SaaS ERP modules and fully automated E-Kart platform with dynamic database integration.
+
+[Leadership & Community]
   role: Founder & President @ Coders Era Community
-  exec: Scaled dev community operations. 
-  exec: Mentored in Gen AI & Web Dev, acted as Hackathon Judge.
-
-[2023]
-  role: Web Dev Intern @ CodSoft & YHills
-  exec: Built and deployed robust e-commerce architectures and dynamic ERP modules.
+  exec: Scaled tech community; organised AI and Full-Stack workshops; mentored developers in Gen AI and Web Dev.
+  exec: Served as Hackathon Judge & Technical Mentor; coordinated multi-community events.
 ```
 
 ---
