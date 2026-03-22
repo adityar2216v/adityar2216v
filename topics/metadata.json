@@ -1,0 +1,15 @@
+{
+  "system_id": "aditya.sys",
+  "node_architecture": "ROS",
+  "clock_type": "Real-Time",
+  "primary_nodes": [
+    "ai_node",
+    "backend_node",
+    "fullstack_node"
+  ],
+  "theme": {
+    "background": "#0D1117",
+    "accent_blue": "#00F0FF",
+    "accent_green": "#39FF14"
+  }
+}

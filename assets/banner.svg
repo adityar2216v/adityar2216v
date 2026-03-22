@@ -1,21 +1,23 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="50%" stop-color="#1e1b4b" />
-      <stop offset="100%" stop-color="#312e81" />
-    </linearGradient>
-  </defs>
-  
   <!-- Background -->
-  <rect width="800" height="200" fill="url(#bg)" rx="12" />
-  
-  <!-- Simple tech grid pattern overlay (very subtle) -->
-  <path d="M 0 50 L 800 50 M 0 100 L 800 100 M 0 150 L 800 150 M 200 0 L 200 200 M 400 0 L 400 200 M 600 0 L 600 200" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1" />
+  <rect width="800" height="200" fill="#0D1117" rx="8"/>
 
-  <!-- Name -->
-  <text x="400" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">Aditya Raj Srivastava</text>
+  <!-- ROS Node Network Diagram (Simplified) -->
+  <path d="M 100 100 L 250 50 M 100 100 L 250 150 M 250 50 L 550 50 M 250 150 L 550 150 M 550 50 L 700 100 M 550 150 L 700 100 M 250 50 L 250 150 M 550 50 L 550 150" stroke="#161B22" stroke-width="2" fill="none"/>
   
-  <!-- Tagline -->
-  <text x="400" y="145" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#94a3b8" text-anchor="middle" letter-spacing="1">AI Engineer ✦ Backend Developer</text>
+  <circle cx="100" cy="100" r="10" fill="#39FF14"/>
+  <circle cx="250" cy="50" r="8" fill="#00F0FF"/>
+  <circle cx="250" cy="150" r="8" fill="#00F0FF"/>
+  <circle cx="550" cy="50" r="8" fill="#00F0FF"/>
+  <circle cx="550" cy="150" r="8" fill="#00F0FF"/>
+  <circle cx="700" cy="100" r="10" fill="#39FF14"/>
+
+  <!-- Identity -->
+  <text x="400" y="85" font-family="'Courier New', Courier, monospace" font-size="32" font-weight="bold" fill="#C9D1D9" text-anchor="middle" letter-spacing="2">aditya.sys</text>
+  
+  <rect x="250" y="105" width="300" height="25" fill="#161B22" rx="4"/>
+  <text x="400" y="123" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#00F0FF" text-anchor="middle" letter-spacing="1">SYSTEM_NODE :: AI &amp; RTC BACKEND</text>
+  
+  <circle cx="20" cy="20" r="4" fill="#39FF14" />
+  <text x="35" y="24" font-family="'Courier New', Courier, monospace" font-size="12" fill="#8B949E">RTC / ROS Master [ONLINE]</text>
 </svg>
