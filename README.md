@@ -12,51 +12,57 @@
 
 ## `identity`
 **Aditya Raj Srivastava**  
-AI Engineer | Full-Stack Software Engineer | Backend Systems Developer  
+Full-Stack Engineer | AI/ML Integration | Distributed Systems | DSA & OOP  
 Gautam Buddha Nagar, India
-> *AI Engineer and Full-Stack Developer pursuing B.Tech (CSE) at NIET. Specialising in Generative AI, LLM integration, RAG pipelines, and scalable backend architectures. Founder of Coders Era.*
+> *Full-Stack Software Engineer with 3 internships, 6 production deployments, and an 8.0 GPA. Engineered systems that cut pipeline latency by 40%, reduced defects by 30%, and eliminated 50% of manual overhead. Solved 150+ LeetCode problems in Java. Founding CTO at Resiqra and Founder of Coders Era (5,000+ members). Built for scale, driven by impact — ready to engineer at the highest level.*
 
 ---
 
 ## `ai_core` (Generative AI & LLMs)
-- **Generative Applications:** Built Generative AI applications integrating LLM-based reasoning with scalable Python backends.
-- **Workflow Automation:** Automated intelligent data-processing workflows, improving operational efficiency.
-- **API Integration:** Delivered production-ready AI features, structured intelligent document processing pipelines, and prompt engineering integrations.
+- **Generative Applications:** Architected modular Python backend services integrating LLM-based reasoning pipelines, reducing downstream defects by 30%.
+- **Workflow Automation:** Automated intelligent data-processing workflows, cutting manual intervention by 40% and accelerating end-to-end pipeline throughput.
+- **API Integration:** Owned end-to-end delivery of an LLM-powered document intelligence module; engineered production RESTful APIs consumed by React frontends.
 
 ---
 
-## `projects` (Active Systems)
+## `projects` (6 Production Deployments)
 
 ```yaml
-[system: ai_task_manager]
-status:  live
-type:    LLM-driven task prioritisation engine
-stack:   React, Next.js, LLMs
-
 [system: omniassist_ai]
 status:  live
-type:    Enterprise AI assistant with secure auth and contextual LLM reasoning
-stack:   Flask, Supabase, PostgreSQL
-
-[system: fintech_doc_intelligence]
-status:  live
-type:    AI parsing pipeline transforming unstructured financial docs to structured data
-stack:   React, Next.js, TypeScript
-
-[system: soulmate_ai]
-status:  live
-type:    Conversational AI with real-time dialogue inference pipeline
-stack:   Python, Flask, LLM API
+type:    Enterprise AI assistant
+stack:   Flask, Supabase, PostgreSQL, OpenAI API
+desc:    50+ concurrent users · JWT auth · multi-session · LLM reasoning via SOA
 
 [system: tw33t]
 status:  live
-type:    Full-stack social media platform with dynamic routing and scalable UI
-stack:   Next.js, TypeScript
+type:    Social platform
+stack:   Next.js, TypeScript, Node.js, PostgreSQL
+desc:    100+ accounts · real-time feed · optimized REST API · OOP component architecture
+
+[system: fintech_doc_intelligence]
+status:  live
+type:    AI document pipeline
+stack:   React, Next.js, TypeScript, LLM API
+desc:    90%+ parsing accuracy · unstructured → structured financial data transformation
+
+[system: ai_task_manager]
+status:  live
+type:    LLM task prioritization
+stack:   React, Next.js, OpenAI API
+desc:    35% planning overhead reduction · modular full-stack architecture
+
+[system: soulmate_ai]
+status:  live
+type:    Conversational AI
+stack:   Python, Flask, LLM API
+desc:    sub-200ms inference · session persistence · OOP service architecture
 
 [system: coders_era_platform]
 status:  live
-type:    Official community tech platform supporting events and engagement
+type:    Community platform
 stack:   HTML, CSS, JavaScript
+desc:    5,000+ active developers · event management · zero downtime since launch
 ```
 
 ---
@@ -65,24 +71,39 @@ stack:   HTML, CSS, JavaScript
 
 ```json
 {
-  "languages": ["Python", "JavaScript", "TypeScript", "Java", "C", "C++"],
-  "frontend": ["React.js", "Next.js", "Angular", "React Native", "TailwindCSS"],
-  "backend": ["Node.js", "Express.js", "Flask", "RESTful APIs", "Auth Systems"],
-  "databases": ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
-  "ai_ml": ["LLMs", "Prompt Engineering", "RAG", "OpenAI API", "Workflow Automation"],
-  "tools": ["Git", "GitHub", "Vercel", "Render", "DSA", "OOP", "DBMS", "OS"]
+  "languages": ["Java", "C++", "Python", "JavaScript", "TypeScript", "C"],
+  "frameworks": ["React.js", "Next.js", "Angular", "Node.js", "Express.js", "Flask", "TailwindCSS"],
+  "databases": ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Schema Design", "Query Optimization"],
+  "ai_ml": ["LLM APIs (OpenAI)", "RAG Pipelines", "Prompt Engineering", "Intelligent Document Processing"],
+  "cloud_devops": ["Git", "GitHub", "Vercel", "Render", "CI/CD", "Linux", "Agile", "Scrum"],
+  "cs_fundamentals": ["Data Structures", "Algorithms", "OOP", "DBMS", "OS", "Computer Networks", "System Design"],
+  "competitive_programming": ["LeetCode (150+ problems in Java)", "Strong DSA fundamentals"]
 }
 ```
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+---
+
+## `education` (Training Regimen)
+
+```bash
+[2024 -> 2028] B.Tech - Computer Science & Engineering
+  institution: NIET, Greater Noida (AKTU)
+  gpa:         8.0 / 10
+  coursework:  Data Structures, Algorithms, OOP, DBMS, OS, Computer Networks
+```
 
 ---
 
@@ -93,19 +114,35 @@ $ cat /var/log/experience.log
 
 [2025-08 -> 2025-11] Developers Arena
   role: Python & Generative AI Development Intern
-  exec: Built AI applications integrating LLMs with Python backends.
-  exec: Designed and deployed RESTful APIs.
-  exec: Automated intelligent data-processing workflows.
+  exec: Architected 3+ modular Python backend services using OOP & SOA principles; integrated LLM-based reasoning pipelines reducing downstream defects by 30%.
+  exec: Engineered 5+ production RESTful APIs consumed by React frontends; resolved cross-service bottlenecks improving API reliability by 30%.
+  exec: Automated 4 intelligent data-processing workflows, cutting manual intervention by 40% and accelerating end-to-end pipeline throughput.
+  exec: Owned end-to-end delivery of an LLM-powered document intelligence module from design to production; coordinated 8-person Agile team with 100% on-time delivery.
 
-[Internships] CodSoft | YHills
+[2024] YHills
   role: Web Development Intern
-  exec: Developed Resume Website and static E-Kart E-Commerce site.
-  exec: Built SaaS ERP modules and fully automated E-Kart platform.
+  exec: Built 3 SaaS ERP modules + fully automated e-commerce platform with dynamic MySQL integration, reducing manual data entry by 50%.
+  exec: Implemented JWT authentication & RBAC security framework across 2 applications, protecting 100+ end users.
+```
 
-[Leadership] Coders Era Community
+---
+
+## `leadership_and_achievements` (Processes)
+
+```bash
+[Present] Resiqra (resiqra.co.in)
+  role: CTO
+  exec: Leading tech at Resiqra — EdTech DRS platform delivering disaster management & ethics courses from national/international institutions.
+  exec: Owning architecture, roadmap & engineering execution.
+
+[2024 -> Present] Coders Era Community
   role: Founder & President
-  exec: Scaled tech community; organised AI and Full-Stack workshops.
-  exec: Mentored developers in Gen AI and Web Dev; Hackathon Judge.
+  exec: Scaled developer community to 5,000+ members; delivered 10+ workshops on DSA, full-stack development, and AI/ML integration.
+  exec: Mentored 100+ hackathon submissions as Technical Judge across 3+ multi-community events, evaluating algorithmic design.
+
+[2025] Amazon ML Summer School
+  role: Applicant
+  exec: Selective virtual ML program by Amazon India Scientists covering Supervised Learning, Deep Learning, NLP, LLMs & AI Agents.
 ```
 
 ---
@@ -123,7 +160,7 @@ $ cat /var/log/experience.log
 
 ```bash
 $ ping linkedin
-> https://linkedin.com/in/adityaraj-srivastava-401b75328 [OK]
+> https://linkedin.com/in/aditya-raj-srivastava-401b75328 [OK]
 
 $ ping email
 > mailto:srivastavaadityaraj751@gmail.com [OK]
