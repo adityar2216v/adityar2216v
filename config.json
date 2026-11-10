@@ -2,24 +2,31 @@
   "system": {
     "user": "adityar2216v",
     "name": "Aditya Raj Srivastava",
-    "version": "v1.0.0",
+    "version": "v2.5.0",
     "status": "online",
+    "roles": [
+      "Full-Stack Software Engineer",
+      "AI & LLM Systems Architect",
+      "Founding CTO @ Resiqra",
+      "Founder & President @ Coders Era"
+    ],
     "core_modules": [
-      "Generative AI",
-      "LLM Integration",
-      "RAG Systems",
-      "Backend Architecture",
-      "API Design"
+      "Generative AI & LLM Reasoning",
+      "RAG Pipelines",
+      "Distributed Backend Systems",
+      "Microservices & REST APIs",
+      "DSA & Algorithmic Design (Java)"
     ],
     "theme": {
       "mode": "dark",
-      "base": "#0D1117",
+      "base": "#080B10",
+      "canvas": "#0D1117",
       "primary": "#00F0FF",
       "secondary": "#39FF14",
+      "accent": "#7928CA",
       "text": "#C9D1D9",
       "muted": "#8B949E"
     },
-    "architecture_pattern": "modular-microservices",
-    "framework": "Stitch-MCP-Style-Config"
+    "architecture_pattern": "modular-microservices-event-driven"
   }
 }
