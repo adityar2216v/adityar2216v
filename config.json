@@ -2,20 +2,33 @@
   "system": {
     "user": "adityar2216v",
     "name": "Aditya Raj Srivastava",
-    "version": "v2.5.0",
+    "headline": "Software Development Engineer Intern | Backend & Product Engineering | Applied AI",
+    "version": "v3.0.0",
     "status": "online",
+    "contacts": {
+      "phone": "+91 93113 40803",
+      "email": "srivastavaadityaraj751@gmail.com",
+      "location": "Gautam Buddha Nagar, India",
+      "portfolio": "https://aditya-dev-server.vercel.app",
+      "leetcode": "https://leetcode.com/u/adityar2226v",
+      "codolio": "https://codolio.com/profile/adityar2226v",
+      "linkedin": "https://linkedin.com/in/aditya-raj-srivastava-401b75328",
+      "github": "https://github.com/adityar2216v"
+    },
     "roles": [
-      "Full-Stack Software Engineer",
-      "AI & LLM Systems Architect",
-      "Founding CTO @ Resiqra",
-      "Founder & President @ Coders Era"
+      "Web Developer Intern @ Youth Talks",
+      "Web Developer Intern @ Abhinav Immigration Pvt. Ltd.",
+      "AI/ML Intern @ Cognevance Technologies",
+      "AI Intern @ Codec Technologies",
+      "Freelance Web Developer (Self-employed)",
+      "Founder & President @ Coders Era Community"
     ],
     "core_modules": [
-      "Generative AI & LLM Reasoning",
-      "RAG Pipelines",
-      "Distributed Backend Systems",
-      "Microservices & REST APIs",
-      "DSA & Algorithmic Design (Java)"
+      "Backend & Product Engineering",
+      "Applied AI & LLM APIs",
+      "RAG & Intelligent Document Processing",
+      "RESTful APIs, JWT & RBAC",
+      "DSA & Problem Solving in Java"
     ],
     "theme": {
       "mode": "dark",
@@ -26,7 +39,6 @@
       "accent": "#7928CA",
       "text": "#C9D1D9",
       "muted": "#8B949E"
-    },
-    "architecture_pattern": "modular-microservices-event-driven"
+    }
   }
 }

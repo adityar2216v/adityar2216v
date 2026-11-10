@@ -41,7 +41,7 @@
       <stop offset="100%" stop-color="#39FF14" stop-opacity="0" />
     </radialGradient>
 
-    <!-- Subtle Circuit Grid Pattern -->
+    <!-- Subtle Dot Grid Pattern -->
     <pattern id="dotGrid" width="30" height="30" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#30363D" fill-opacity="0.3" />
     </pattern>
@@ -101,11 +101,11 @@
     <text x="188" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="600" fill="#8B949E">NODE://</text>
     <text x="234" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="700" fill="#00F0FF">adityar2216v.sys</text>
 
-    <!-- Domain Pill (Right) -->
-    <g transform="translate(840, 0)">
-      <rect x="0" y="0" width="240" height="26" rx="13" fill="#161B22" stroke="#30363D" stroke-width="1" />
-      <text x="16" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="600" fill="#8B949E">FOCUS: </text>
-      <text x="68" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="700" fill="#00F0FF">GenAI · Full-Stack</text>
+    <!-- Focus Pill (Right) -->
+    <g transform="translate(820, 0)">
+      <rect x="0" y="0" width="260" height="26" rx="13" fill="#161B22" stroke="#30363D" stroke-width="1" />
+      <text x="16" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="600" fill="#8B949E">CORE: </text>
+      <text x="64" y="17" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="700" fill="#00F0FF">Backend · Product · Applied AI</text>
     </g>
   </g>
 
@@ -115,9 +115,9 @@
   <!-- Hero Identity Block -->
   <g transform="translate(600, 142)" text-anchor="middle">
     <!-- Eyebrow Pill -->
-    <rect x="-180" y="-48" width="360" height="24" rx="12" fill="#161B22" stroke="#00F0FF" stroke-opacity="0.3" stroke-width="1" />
+    <rect x="-210" y="-48" width="420" height="24" rx="12" fill="#161B22" stroke="#00F0FF" stroke-opacity="0.3" stroke-width="1" />
     <text x="0" y="-32" font-family="'Fira Code', Consolas, monospace" font-size="11" font-weight="700" fill="#00F0FF" letter-spacing="2">
-      // FULL-STACK &amp; AI SYSTEMS ARCHITECT //
+      // SDE INTERN · BACKEND &amp; PRODUCT ENGINEERING //
     </text>
 
     <!-- Main Name Title -->
@@ -127,38 +127,38 @@
 
     <!-- Precision Subtitle -->
     <text x="0" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#C9D1D9" letter-spacing="0.3">
-      Founding CTO @ <tspan fill="#00F0FF" font-weight="700">Resiqra</tspan>  ·  Founder @ <tspan fill="#39FF14" font-weight="700">Coders Era (5,000+ Devs)</tspan>  ·  DSA in Java &amp; Systems
+      Applied AI &amp; Document Intelligence  ·  Founder @ <tspan fill="#39FF14" font-weight="700">Coders Era (5,000+ Devs)</tspan>  ·  Events @ Microsoft Offices
     </text>
   </g>
 
   <!-- Bottom Metric Telemetry HUD Strip (5 Equidistant Balanced Cards) -->
   <g transform="translate(85, 256)">
-    <!-- Card 1: Production Deployments -->
+    <!-- Card 1: Internships & Work -->
     <g transform="translate(0, 0)">
       <rect width="190" height="56" rx="10" fill="url(#cardBg)" stroke="#30363D" stroke-width="1" />
-      <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#00F0FF">6 DEPLOYMENTS</text>
-      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">Production Verified</text>
+      <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#00F0FF">4+ INTERNSHIPS</text>
+      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">Youth Talks · Abhinav · Codec</text>
     </g>
 
     <!-- Card 2: Community -->
     <g transform="translate(210, 0)">
       <rect width="190" height="56" rx="10" fill="url(#cardBg)" stroke="#30363D" stroke-width="1" />
       <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#39FF14">5,000+ DEVS</text>
-      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">Coders Era Founder</text>
+      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">Coders Era Founder &amp; Pres.</text>
     </g>
 
-    <!-- Card 3: Inference Speed -->
+    <!-- Card 3: MS Events -->
     <g transform="translate(420, 0)">
       <rect width="190" height="56" rx="10" fill="url(#cardBg)" stroke="#30363D" stroke-width="1" />
-      <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#00F0FF">&lt; 200ms</text>
-      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">LLM Dialogue Latency</text>
+      <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#00F0FF">MICROSOFT</text>
+      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">Offices Event Organizer</text>
     </g>
 
     <!-- Card 4: LeetCode DSA -->
     <g transform="translate(630, 0)">
       <rect width="190" height="56" rx="10" fill="url(#cardBg)" stroke="#30363D" stroke-width="1" />
       <text x="16" y="26" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="800" fill="#39FF14">150+ SOLVED</text>
-      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">LeetCode DSA in Java</text>
+      <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#8B949E">LeetCode (adityar2226v)</text>
     </g>
 
     <!-- Card 5: Academics & GPA -->
