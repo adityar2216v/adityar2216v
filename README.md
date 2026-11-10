@@ -6,28 +6,26 @@
   <br/><br/>
 
   <!-- Dynamic Typing Animation Header -->
-  <a href="https://adityar2216v.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+booting_system%3A+aditya_raj_srivastava...%3B%3B;%3E+role%3A+AI+Engineer+%26+Full-Stack+Systems+Architect%3B;%3E+founding_cto+%40+Resiqra+%5Bdisaster+resilience+EDR%5D%3B;%3E+founder+%40+Coders+Era+%5B5%2C000%2B+developer+community%5D%3B;%3E+6+production+deployments+%7C+sub-200ms+inference%3B;%3E+150%2B+LeetCode+problems+solved+in+Java%3B;%3E+latency_cut%3A+40%25+%7C+defects_reduced%3A+30%25%3B;%3E+system_status%3A+READY_TO_ENGINEER_AT_SCALE." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00F0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%26+AI+Architect;Founding+CTO+%40+Resiqra+%5BEdTech+Disaster+Resilience%5D;Founder+%40+Coders+Era+%5B5%2C000%2B+Developers+Community%5D;6+Production+Deployments+%7C+sub-200ms+Inference;150%2B+LeetCode+Problems+Solved+in+Java;Latency+Cut%3A+40%25+%7C+Defects+Reduced%3A+30%25;System+Status%3A+READY_TO_ENGINEER_AT_SCALE" alt="Aditya Dynamic Typing Header" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Quick Command & Connect Ribbon -->
+  <!-- Direct Contact & Profile Badges -->
   <p align="center">
-    <a href="https://adityar2216v.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-    </a>
     <a href="https://linkedin.com/in/aditya-raj-srivastava-401b75328" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:srivastavaadityaraj751@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/EMAIL_DIRECT-39FF14?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Direct_Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
     </a>
+    &nbsp;
     <a href="./Aditya_Raj_Srivastava_ASS.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME_PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/Resume-Download_PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
-    <a href="https://github.com/adityar2216v" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    &nbsp;
+    <a href="https://github.com/adityar2216v?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -35,14 +33,14 @@
 
 ---
 
-### ⚡ Telemetry & Core Metrics
+### ⚡ System Telemetry & Key Impact Metrics
 
 ```yaml
-system_id:      aditya.sys // v2.5.0
-architecture:   Distributed Microservices · Generative AI · Event-Driven
-status:         ONLINE · Open for High-Impact Roles & Research Collaborations
+architect:      Aditya Raj Srivastava
+system_status:  ONLINE // Open for High-Impact Engineering Roles & Collaborations
+architecture:   Distributed Microservices · Generative AI · Event-Driven Architecture
 location:       Gautam Buddha Nagar, India (UTC +05:30)
-primary_stack:  Python · TypeScript · Java · Next.js · Node.js · PostgreSQL · RAG
+credentials:    B.Tech in CSE (2024-2028) @ NIET Greater Noida (AKTU) · 8.0 CGPA
 ```
 
 <table align="center" width="100%">
@@ -57,7 +55,7 @@ primary_stack:  Python · TypeScript · Java · Next.js · Node.js · PostgreSQL
     </td>
     <td align="center" width="20%">
       <b>👥 5,000+ Devs</b><br/>
-      <sub>Coders Era Community</sub>
+      <sub>Coders Era Founder</sub>
     </td>
     <td align="center" width="16%">
       <b>🛡️ Founding CTO</b><br/>
@@ -68,145 +66,134 @@ primary_stack:  Python · TypeScript · Java · Next.js · Node.js · PostgreSQL
       <sub>LeetCode DSA (Java)</sub>
     </td>
     <td align="center" width="16%">
-      <b>🎓 8.0 CGPA</b><br/>
-      <sub>CSE '28 · NIET Noida</sub>
+      <b>📉 40% Cut</b><br/>
+      <sub>Pipeline Latency</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧬 `who_i_am` // System Architecture & Mindset
+## 🧬 Engineering Mindset & Identity
 
-> *"I am a software engineer obsessed with turning complex, probabilistic AI capabilities into deterministic, high-throughput production infrastructure. I don't just prototype; I deploy resilient systems that withstand scale, reduce operational friction, and create real engineering leverage."*
+> *"I bridge the gap between probabilistic AI reasoning and deterministic, low-latency software architecture. Rather than relying on simple wrappers, I build resilient end-to-end systems that scale under real-world traffic, eliminate manual bottlenecks, and deliver measurable business leverage."*
 
-```bash
-$ cat << 'EOF' > /dev/profile
-```
-
-- 🏗️ **Full-Stack & Distributed Architect:** Specialized in designing reactive full-stack web architectures ([Next.js](https://nextjs.org), [React](https://react.dev), [TypeScript](https://www.typescriptlang.org)) backed by robust, low-latency API layers ([Node.js](https://nodejs.org), [Flask](https://flask.palletsprojects.com), [PostgreSQL](https://www.postgresql.org), [Supabase](https://supabase.com)).
-- 🧠 **Generative AI & LLM Systems:** Engineering real-world Retrieval-Augmented Generation (RAG) pipelines, structured document intelligence, contextual memory, and sub-200ms dialogue inference workflows.
+- 🏗️ **Distributed Full-Stack Systems:** Designing reactive frontend applications ([Next.js](https://nextjs.org), [React](https://react.dev), [TypeScript](https://www.typescriptlang.org)) coupled with high-throughput backend services ([Node.js](https://nodejs.org), [Flask](https://flask.palletsprojects.com), [PostgreSQL](https://www.postgresql.org), [Supabase](https://supabase.com)).
+- 🧠 **Generative AI & LLM Pipelines:** Architecting production Retrieval-Augmented Generation (RAG) workflows, intelligent document intelligence modules, structured schema parsing, and sub-200ms dialogue inference.
 - 👑 **Venture & Community Leadership:** 
-  - **Founding CTO at Resiqra:** Driving technical roadmap, architecture, and engineering execution for an EdTech DRS platform delivering accredited disaster management & ethics coursework.
-  - **Founder & President at Coders Era:** Scaled a thriving technical community to **5,000+ developers**, hosting 10+ hands-on workshops and evaluating 100+ hackathon projects as a Technical Judge.
-- 🎯 **Algorithmic Discipline:** 150+ problems solved on LeetCode using **Java**, prioritizing clean OOP patterns, rigorous time/space complexity analysis, and defensive systems design.
-- 📈 **Measurable Impact:** Engineered pipelines cutting latency by **40%**, reduced downstream bugs by **30%**, and eliminated **50%** of manual overhead.
-
-```bash
-EOF
-```
+  - **Founding CTO at Resiqra:** Leading technology architecture and engineering execution for an EdTech DRS platform delivering accredited disaster resilience and ethics coursework.
+  - **Founder & President at Coders Era:** Scaled a thriving developer community to **5,000+ members**, delivering 10+ hands-on technical workshops and mentoring 100+ hackathon submissions as a Technical Judge.
+- 🎯 **Algorithmic Rigor:** 150+ problems solved on LeetCode in **Java**, prioritizing robust Object-Oriented Design, time/space complexity optimization, and clean microservice patterns.
+- 📈 **Quantified Impact:** Engineered pipelines that cut processing latency by **40%**, reduced downstream defects by **30%**, and eliminated **50%** of manual operational overhead.
 
 ---
 
-## 🚀 `active_deployments` // 6 Production Systems
+## 🚀 Production Systems & Active Deployments
 
 <table>
   <thead>
     <tr>
-      <th align="left">System / Platform</th>
-      <th align="left">Domain & Purpose</th>
-      <th align="left">Tech Stack</th>
-      <th align="left">Key Performance Metric</th>
+      <th align="left" width="24%">System</th>
+      <th align="left" width="36%">Architecture & Purpose</th>
+      <th align="left" width="24%">Stack</th>
+      <th align="left" width="16%">Metrics & Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <b><a href="https://github.com/adityar2216v">OmniAssist AI</a></b><br/>
-        <sub><code>Live Production</code> · <code>Enterprise</code></sub>
+        <b><a href="https://ai-task-manager-seven.vercel.app" target="_blank">AI Task Manager</a></b><br/>
+        <sub><code>Live Production</code> · <code>SaaS</code></sub>
       </td>
-      <td>Enterprise AI assistant with multi-session conversational memory, JWT auth, and contextual LLM reasoning via SOA.</td>
+      <td>Autonomous task prioritization engine with dynamic priority scoring and structured execution workflows.</td>
       <td>
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </td>
       <td>
-        <code>50+ Concurrent Users</code><br/>
-        <sub>Secure RBAC · Multi-tenant</sub>
+        <code>-35% Overhead</code><br/>
+        <a href="https://ai-task-manager-seven.vercel.app" target="_blank">🌐 Live Demo</a> · <a href="https://github.com/adityar2216v/ai-task-manager" target="_blank">🐙 Repo</a>
       </td>
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/adityar2216v">Tw33t</a></b><br/>
-        <sub><code>Live Production</code> · <code>Social App</code></sub>
+        <b><a href="https://fintech-xi-nine.vercel.app" target="_blank">FinTech Doc Intelligence</a></b><br/>
+        <sub><code>Live Production</code> · <code>AI Pipeline</code></sub>
       </td>
-      <td>High-performance Twitter/X architectural clone featuring real-time feed rendering, responsive UI, and optimized REST APIs.</td>
+      <td>Intelligent processing pipeline converting unstructured financial documentation into validated JSON schemas.</td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </td>
-      <td>
-        <code>100+ Live Accounts</code><br/>
-        <sub>OOP Component Design</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityar2216v">FinTech Doc Intelligence</a></b><br/>
-        <sub><code>Live Production</code> · <code>Pipeline</code></sub>
-      </td>
-      <td>Intelligent document processing pipeline transforming messy, unstructured financial docs into verified structured schemas.</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/LLM_API-FF6F00?style=flat-square" />
       </td>
       <td>
         <code>90%+ Accuracy</code><br/>
-        <sub>Zero-shot schema parsing</sub>
+        <a href="https://fintech-xi-nine.vercel.app" target="_blank">🌐 Live Demo</a> · <a href="https://github.com/adityar2216v/fintech" target="_blank">🐙 Repo</a>
       </td>
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/adityar2216v">AI Task Manager</a></b><br/>
-        <sub><code>Live Production</code> · <code>SaaS</code></sub>
+        <b><a href="https://terrasense-flame.vercel.app" target="_blank">TerraSense</a></b><br/>
+        <sub><code>Live Production</code> · <code>Analytics</code></sub>
       </td>
-      <td>AI-driven dynamic task prioritization and workflow scheduling platform with modular full-stack client.</td>
+      <td>Geospatial and environmental telemetry dashboard delivering real-time environmental risk visualization.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+      <td>
+        <code>Real-time Data</code><br/>
+        <a href="https://terrasense-flame.vercel.app" target="_blank">🌐 Live Demo</a> · <a href="https://github.com/adityar2216v/terrasense" target="_blank">🐙 Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://weather-nova-vert.vercel.app" target="_blank">WeatherNova</a></b><br/>
+        <sub><code>Live Production</code> · <code>Real-Time Web</code></sub>
+      </td>
+      <td>High-speed meteorological forecasting application with responsive data-binding and weather metric visualization.</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td>
+        <code>Low-latency API</code><br/>
+        <a href="https://weather-nova-vert.vercel.app" target="_blank">🌐 Live Demo</a> · <a href="https://github.com/adityar2216v/weathernova" target="_blank">🐙 Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://edtech-emark.vercel.app" target="_blank">E-Mark EdTech</a></b><br/>
+        <sub><code>Live Production</code> · <code>Education</code></sub>
+      </td>
+      <td>Academic management and progress evaluation portal supporting automated performance grading workflows.</td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
       </td>
       <td>
-        <code>35% Overhead Cut</code><br/>
-        <sub>Dynamic priority scoring</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/adityar2216v">Soulmate AI</a></b><br/>
-        <sub><code>Live Production</code> · <code>Conversational</code></sub>
-      </td>
-      <td>Low-latency conversational agent with context persistence, sentiment tracking, and streaming response pipelines.</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
-        <img src="https://img.shields.io/badge/LLM_Engine-10A37F?style=flat-square&logo=openai&logoColor=white" />
-      </td>
-      <td>
-        <code>&lt; 200ms Latency</code><br/>
-        <sub>OOP microservice backend</sub>
+        <code>Zero Downtime</code><br/>
+        <a href="https://edtech-emark.vercel.app" target="_blank">🌐 Live Demo</a> · <a href="https://github.com/adityar2216v/edtech-emark" target="_blank">🐙 Repo</a>
       </td>
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/adityar2216v">Coders Era Platform</a></b><br/>
+        <b><a href="https://github.com/adityar2216v/codersera-new-web" target="_blank">Coders Era Platform</a></b><br/>
         <sub><code>Live Production</code> · <code>Community</code></sub>
       </td>
-      <td>Official tech platform powering community events, workshops, registration workflows, and member interactions.</td>
+      <td>Official tech portal coordinating hackathons, workshops, and resource distribution for 5,000+ developers.</td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
       <td>
-        <code>5,000+ Members</code><br/>
-        <sub>100% Uptime recorded</sub>
+        <code>5,000+ Users</code><br/>
+        <a href="https://github.com/adityar2216v/codersera-new-web" target="_blank">🐙 Source Repo</a>
       </td>
     </tr>
   </tbody>
@@ -214,7 +201,7 @@ EOF
 
 ---
 
-## 🛠️ `technical_arsenal` // Languages & Systems
+## 🛠️ Technical Arsenal & Core Competencies
 
 <details open>
 <summary><b>🔹 Core Programming Languages</b></summary>
@@ -246,7 +233,7 @@ EOF
 </details>
 
 <details open>
-<summary><b>🔹 Full-Stack & Frontend Architecture</b></summary>
+<summary><b>🔹 Frontend Engineering & Frameworks</b></summary>
 <br>
 
 <p align="left">
@@ -298,7 +285,7 @@ EOF
 <p align="left">
   <img src="https://img.shields.io/badge/LeetCode_150+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4A154B?style=for-the-badge&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-1B365D?style=for-the-badge&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Object_Oriented_Design-1B365D?style=for-the-badge&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/System_Design-008080?style=for-the-badge&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/DBMS_&_OS-2E3440?style=for-the-badge&logoColor=white" alt="DBMS" />
   <img src="https://img.shields.io/badge/Computer_Networks-3B4252?style=for-the-badge&logoColor=white" alt="Networks" />
@@ -307,49 +294,46 @@ EOF
 
 ---
 
-## 💼 `runtime_logs` // Engineering Experience & Impact
+## 💼 Professional Experience & Engineering Impact
 
-```diff
-+ [2025-08 -> 2025-11] DEVELOPERS ARENA // Python & Generative AI Development Intern
-```
-- **Architected 3+ Modular Python Backend Services:** Built microservices following Object-Oriented and Service-Oriented Architecture (SOA) patterns; integrated LLM-based reasoning pipelines that **reduced downstream defects by 30%**.
-- **Production RESTful API Engineering:** Designed, documented, and shipped 5+ endpoints consumed by modern React frontends; eliminated cross-service latency bottlenecks to **boost API reliability by 30%**.
-- **Intelligent Workflow Automation:** Engineered automated data-processing pipelines, **cutting manual operational intervention by 40%** and accelerating throughput.
-- **Cross-Functional Agile Leadership:** Owned end-to-end delivery of an LLM-driven document intelligence engine; coordinated an 8-person Agile engineering team to hit **100% on-time sprint milestones**.
+### 🔹 Developers Arena
+**Python & Generative AI Development Intern** · *Aug 2025 – Nov 2025*
+- **Modular Python Backend Architecture:** Engineered 3+ microservices applying OOP and Service-Oriented Architecture (SOA) patterns; integrated LLM-based reasoning pipelines that **reduced downstream processing defects by 30%**.
+- **High-Reliability RESTful APIs:** Designed and deployed 5+ production REST endpoints consumed by React frontends; eliminated cross-service bottlenecks to **improve API reliability by 30%**.
+- **Automated Data Processing Workflows:** Built intelligent automation pipelines, **reducing manual operational intervention by 40%** and boosting throughput across processing queues.
+- **Agile Ownership:** Led the end-to-end delivery of an LLM-powered document intelligence module; coordinated an 8-person Agile engineering team with **100% on-time milestone delivery**.
 
-```diff
-+ [2024] YHILLS // Web Development Intern
-```
-- **Enterprise ERP Modules:** Developed 3 SaaS ERP subsystems and an automated e-commerce web platform backed by dynamic MySQL database architectures, **reducing manual data entry by 50%**.
-- **Security & Authorization Architecture:** Implemented secure JWT token authentication with granular Role-Based Access Control (RBAC), hardening data protection across 2 applications for 100+ active users.
+### 🔹 YHills
+**Web Development Intern** · *2024*
+- **Enterprise ERP Modules:** Developed 3 SaaS ERP subsystems and an automated e-commerce web platform backed by dynamic MySQL schemas, **reducing manual data entry by 50%**.
+- **Security & Authorization Framework:** Implemented JWT authentication and fine-grained Role-Based Access Control (RBAC), securing sensitive customer records for 100+ active users.
 
-```diff
-+ [2024] CODSOFT // Web Development Intern
-```
+### 🔹 CodSoft
+**Web Development Intern** · *2024*
 - **Full-Stack Interface Delivery:** Developed responsive web platforms, portfolio architectures, and dynamic catalog workflows focusing on clean CSS token structures and fast DOM render speeds.
 
 ---
 
-## 👑 `leadership` // Venture & Community Footprint
+## 👑 Leadership & Venture Track
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Founding CTO @ Resiqra</h3>
-      <p><b>Platform:</b> <a href="https://resiqra.co.in">resiqra.co.in</a> · <code>EdTech · Disaster Resilience</code></p>
+      <p><code>EdTech · Disaster Resilience</code> · <code>Core Tech Leadership</code></p>
       <ul>
-        <li>Directing overall technical vision, systems architecture, and engineering execution.</li>
-        <li>Building an enterprise-grade learning DRS platform delivering specialized disaster management, ethics, and emergency resilience certifications from national & global institutions.</li>
+        <li>Directing overall technical vision, system architecture, and engineering execution for the platform.</li>
+        <li>Engineering an enterprise-grade learning DRS delivering accredited disaster management, ethics, and emergency resilience certifications from national & global institutions.</li>
         <li>Architecting scalable backend data pipelines, secure student credentialing, and resilient cloud infrastructure.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>👥 Founder & President @ Coders Era</h3>
-      <p><b>Community:</b> <code>5,000+ Engineers</code> · <code>India-wide</code></p>
+      <p><code>5,000+ Engineers</code> · <code>Pan-India Tech Community</code></p>
       <ul>
-        <li>Founded and scaled an active tech community to <b>5,000+ developers</b> across colleges and engineering teams.</li>
-        <li>Conducted <b>10+ hands-on technical workshops</b> on Data Structures & Algorithms, Full-Stack Architecture, and Generative AI integration.</li>
-        <li>Appointed as <b>Technical Judge & Hackathon Mentor</b> across 3+ multi-community national hackathons, reviewing 100+ algorithmic solutions and product architectures.</li>
+        <li>Founded and scaled an active engineering community to <b>5,000+ developers</b> across colleges and tech teams.</li>
+        <li>Delivered <b>10+ hands-on technical workshops</b> on Data Structures & Algorithms, Full-Stack Architecture, and Generative AI.</li>
+        <li>Served as <b>Technical Judge & Hackathon Mentor</b> across 3+ multi-community national hackathons, reviewing 100+ algorithmic solutions and product architectures.</li>
       </ul>
     </td>
   </tr>
@@ -359,7 +343,7 @@ EOF
 
 ---
 
-## 🎓 `education_path` // Computer Science & Engineering
+## 🎓 Academic Training
 
 ```bash
 [2024 - 2028]  BACHELOR OF TECHNOLOGY (B.TECH) - COMPUTER SCIENCE & ENGINEERING
@@ -370,36 +354,36 @@ EOF
                • Core Coursework:
                  - Data Structures & Algorithms (DSA)
                  - Object-Oriented Programming (OOP in Java & C++)
-                 - Database Management Systems (DBMS & SQL Optimization)
-                 - Operating Systems & Concurrency (Linux / Processes / Threads)
+                 - Database Management Systems (DBMS & Query Optimization)
+                 - Operating Systems & Concurrency (Linux / Processes / Multi-threading)
                  - Computer Networks & Protocols (TCP/IP / HTTP / WebSockets)
                  - Discrete Mathematics & Theoretical Computation
 ```
 
 ---
 
-## 📊 `telemetry_dashboard` // Live Analytics & Activity
+## 📊 Telemetry Dashboard & Live Activity
 
 <div align="center">
 
-  <!-- Stats Grid -->
+  <!-- Verified High-Reliability Stats Grid -->
   <table border="0" align="center">
     <tr>
       <td align="center">
         <a href="https://github.com/adityar2216v">
-          <img src="https://github-readme-stats.vercel.app/api?username=adityar2216v&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=39FF14" alt="GitHub Stats" width="410" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=adityar2216v&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=39FF14" alt="GitHub Stats" width="410" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/adityar2216v">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityar2216v&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=39FF14&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="410" />
+          <img src="https://streak-stats.demolab.com?user=adityar2216v&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=39FF14&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="410" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/adityar2216v">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityar2216v&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="380" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adityar2216v&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Top Languages" width="380" />
         </a>
       </td>
     </tr>
@@ -407,7 +391,7 @@ EOF
 
   <br/>
 
-  <!-- Contribution Snake Animation -->
+  <!-- Verified Contribution Grid Snake Animation -->
   <p align="center">
     <b>🐍 Activity Matrix // Contribution Stream</b>
   </p>
@@ -421,38 +405,32 @@ EOF
 
 ---
 
-## 📡 `dispatch_console` // Connect & Collaborate
-
-```bash
-$ aditya --connect --intent="collaborate"
-
-[OK] Remote connection protocols established:
-```
+## 📡 Connect & Dispatch Console
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://adityar2216v.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" /><br/>
-        <sub><code>adityar2216v.vercel.app</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
       <a href="https://linkedin.com/in/aditya-raj-srivastava-401b75328" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><code>/in/aditya-raj-srivastava</code></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:srivastavaadityaraj751@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/EMAIL-Send_Message-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Email-Direct-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /><br/>
         <sub><code>srivastavaadityaraj751@gmail.com</code></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="./Aditya_Raj_Srivastava_ASS.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/RESUME-Download_PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Resume-Download_PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /><br/>
         <sub><code>Aditya_Raj_Srivastava_ASS.pdf</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/adityar2216v" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-adityar2216v-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <sub><code>github.com/adityar2216v</code></sub>
       </a>
     </td>
   </tr>
@@ -461,7 +439,5 @@ $ aditya --connect --intent="collaborate"
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=%2F%2F+READY_TO_ARCHITECT.+READY_TO_DEPLOY.%3B%2F%2F+LET'S+BUILD+SOMETHING+EXTRAORDINARY." alt="EOF Console" />
-  <br/>
-  <sub>Designed &amp; Architected with ⚡ by <b>Aditya Raj Srivastava</b></sub>
+  <sub>Engineered &amp; Maintained with precision by <b>Aditya Raj Srivastava</b></sub>
 </div>
