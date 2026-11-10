@@ -1,48 +1,68 @@
-ADITY A RAJ SRIV AST A V A
-AI Engineer | F ull-Stac k Soft w are Engineer | Bac k end Systems Dev elop er
-Ph: +91-9170806003 · Email: sriv asta v aadit y ara j751@gmail.com · Lo cation: Gautam Buddha Nagar, India
-gith ub.com/adit y ar2216v · link edin.com/in/adit y a-ra j-sriv asta v a-401b75328 · adit y ar2216v.v ercel.app
-Professional Summary
-AI Engineer and F ull-Stac k Dev elop er pursuing B.T ec h (CSE) at NIET, Greater Noida, sp ecialising in Generativ e AI, LLM
-in tegration, RA G pip elines, and scalable bac k end arc hitectures. F ounder of Co ders Era ; 4 in ternships (Dev elop ers Arena,
-Co dSoft, YHills) deliv ering pro duction-ready AI and w eb applications.
-T ec hnical Skills
-Languages Python, Ja v aScript, T yp eScript, Ja v a, C, C++
-F ron tend React.js, Next.js, Angular, React Nativ e, HTML5, CSS3, T ailwindCSS
-Bac k end No de.js, Express.js, Flask, RESTful APIs, Authen tication Systems
-Databases P ostgreSQL, MongoDB, MySQL, Supabase
-AI / ML LLMs, Prompt Engineering, RA G, Op enAI API, AI W orko w Automation, In telligen t Do cumen t Pro cessing
-T o ols & Dev Git, GitHub, V ercel, Render, DSA, OOP , DBMS, Op erating Systems
-Professional Exp erience
-Python & Generativ e AI Dev elopmen t In tern  Dev elop ers Arena A ug 2025  Nov 2025
- Built Generativ e AI applications in tegrating LLM-based reasoning with scalable Python bac k ends.
- Designed and deplo y ed RESTful APIs; collab orated cross-functionally on fron tend-bac k end in tegration.
- Automated in telligen t data-pro cessing w orko ws, impro ving op erational eciency .
- Deliv ered pro duction-ready AI features with strong o wnership and problem-solving.
-W eb Dev elopmen t In tern  Co dSoft Internship
-Dev elop ed Resume W ebsite and static E-Kart E-Commerce site with resp onsiv e, optimised UI.
-W eb Dev elopmen t In tern  YHills Internship
-Built SaaS ERP mo dules and fully automated E-Kart platform with dynamic database in tegration.
-Selected Pro jects
-AI T ask Manager Arc hitected LLM-driv en task prioritisation engine with mo dular React/Next.js fron tend. Liv e
-OmniAssist AI En terprise AI assistan t (Flask + Supabase + P ostgreSQL) with secure auth and con textual
-LLM reasoning.Liv e
-FinT ec h Do c
-In telligenceAI parsing pip eline (React, Next.js, T yp eScript) transforming unstructured nancial do cs to
-structured data.Liv e
-Soulmate AI Con v ersational AI (Python, Flask, LLM API) with real-time dialogue inference pip eline. Liv e
-T w33t F ull-stac k so cial media platform (Next.js, T yp eScript) with dynamic routing and scalable UI. Liv e
-Co ders Era Platform Ocial comm unit y tec h platform (HTML/CSS/JS) supp orting ev en ts and engagemen t. Liv e
-Education
-Y ear Qualication Institution / Board
-2024  2028 B.T ec h  Computer Science & Engineering Noida Institute of Engineering and T ec hnology , Greater
-Noida
-Leadership & Comm unit y
-F ounder & Presiden t  Co ders Era Comm unit y
- Scaled tec h comm unit y; organised AI and F ull-Stac k w orkshops; men tored dev elop ers in Gen AI and W eb Dev.
- Serv ed as Hac k athon Judge & T ec hnical Men tor ; co ordinated m ulti-comm unit y ev en ts.
-Campus Am bassador  Unlo x, YHills & Smarted | Mark eting In tern  Gladify
-A dditional Information
-Nationalit y Indian Languages English, Hindi
-Core In terests AI, System Design, OSS A v ailabilit y In ternships / F ull-time (2028)
-I her eby de clar e that al l information pr ovide d is true and c orr e ct to the b est of my know le dge. A dit y a Ra j Sriv asta v a
+ADITYA RAJ SRIVASTAVA
+SOFTWARE DEVELOPMENT ENGINEER INTERN | BACKEND & PRODUCT ENGINEERING | APPLIED AI
++91 93113 40803 | srivastavaadityaraj751@gmail.com | Gautam Buddha Nagar, India
+github.com/adityar2216v | linkedin.com/in/aditya-raj-srivastava-401b75328 | leetcode.com/u/adityar2226v | aditya-dev-server.vercel.app | codolio.com/profile/adityar2226v
+
+PROFESSIONAL SUMMARY
+B.Tech CSE student graduating in 2028 (GPA 8.0/10), focused on backend/product engineering and applied AI. Built full-stack applications using Java, Python, TypeScript, Node.js/Express, Flask, PostgreSQL, and LLM APIs, with experience in REST APIs, authentication/RBAC, data-processing workflows, and document intelligence.
+
+PROFESSIONAL EXPERIENCE
+Web Developer Intern | Youth Talks Jul–Nov 2026
+• Developed the BICCI FAF 2026 website and contributed to Workmint, focusing on responsive UI implementation and consistent user flows.
+• Collaborated on website and platform updates, translating requirements into maintainable frontend changes and validating key interactions.
+
+Web Developer Intern | Abhinav Immigration Pvt. Ltd. Jul–Sep 2026
+• Developed a lead-generation tool, reception-desk workflow, and eligibility checker to support internal operations and user-facing enquiry flows.
+• Improved form interactions and interface usability; coordinated requirements and tested key workflows for reliable day-to-day use.
+
+AI/ML Intern | Cognevance Technologies May–Jun 2026
+• Worked on supervised and unsupervised ML workflows, including data preprocessing, feature engineering, and model evaluation.
+• Supported integration of AI components into application systems, with attention to output quality and reliability.
+
+AI Intern | Codec Technologies May–Jun 2026
+• Contributed AI-powered modules for client-facing applications, including NLP/LLM integration and prompt engineering.
+• Worked on data-extraction workflows and reviewed output quality to improve usefulness of AI-assisted features.
+
+Freelance Web Developer | Self-employed 2025–Present
+• Build and maintain responsive websites for client and personal projects, covering frontend implementation, domain setup, deployment, and post-launch updates.
+• Use React/Next.js, TypeScript, JavaScript, and modern web tooling to translate requirements into usable interfaces; optimize assets and document handoffs where applicable.
+
+SELECTED PROJECTS
+FinTech Doc Intelligence | React, Next.js, TypeScript, LLM API
+• Built an LLM-backed extraction pipeline to convert unstructured financial documents into structured fields; achieved 90%+ parsing accuracy.
+• Integrated the document workflow with a React/Next.js interface and TypeScript frontend.
+
+OmniAssist AI | Flask, Supabase, PostgreSQL, OpenAI API
+• Built Flask APIs with JWT authentication and persistent multi-session conversations backed by Supabase/PostgreSQL.
+• Integrated OpenAI-based reasoning through modular services; supports 50+ concurrent users.
+
+Tw33t | Next.js, TypeScript, Node.js, PostgreSQL
+• Built a full-stack social platform with a real-time feed, REST APIs, and PostgreSQL persistence using Next.js, TypeScript, and Node.js.
+
+AI Task Manager | React, Next.js, OpenAI API
+• Built a full-stack task manager with a modular architecture and LLM-driven task prioritization.
+
+TECHNICAL SKILLS
+Languages: Java, Python, TypeScript, JavaScript, SQL
+Backend & APIs: Node.js, Express.js, Flask, REST APIs, API design, JWT authentication, authorization, RBAC
+Frontend: React.js, Next.js
+Databases & Data: PostgreSQL, MySQL, MongoDB, Supabase, schema design, query optimization
+Applied AI: LLM APIs, RAG, NLP, prompt engineering, intelligent document processing, AI pipelines
+CS & Tools: DSA, OOP, DBMS, OS, Computer Networks, System Design, Git, GitHub, Linux, CI/CD
+
+EDUCATION
+B.Tech, Computer Science & Engineering | NIET, Greater Noida (AKTU) | GPA: 8.0/10 2024–2028
+Class XII: Divine Public School, CBSE | 77.8%
+Class X: Divine Public School, CBSE | 85%
+
+LEADERSHIP & ACHIEVEMENTS
+Founder & President, Coders Era Community (2024–Present): grew the community to 5,000+ members, delivered 10+ workshops, hosted and organized technical events at Microsoft offices, and mentored/judged 5+ hackathon submissions.
+Community: Member of the HackBriven community.
+Problem Solving: 150+ LeetCode problems solved.
+
+CERTIFICATIONS & BADGES
+• Intel AI Aware Badge — Foundational AI concepts and responsible AI awareness.
+• Microsoft — Introduction to Large Language Models — Introductory concepts behind LLMs and their applications.
+• Microsoft MSAI Genius Badge — AI learning and skills recognition badge.
+• GitHub — Introduction to Prompt Engineering with GitHub Copilot — Prompting techniques for AI-assisted coding workflows.
+• Deloitte Technology Job Simulation — Virtual experience in technology-focused problem-solving and professional tasks.
